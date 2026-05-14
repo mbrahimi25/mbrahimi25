@@ -29,7 +29,6 @@ Interested in web development, data related projects, and applied programming pr
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
 
 ### Web Frameworks & Tools
 
@@ -39,7 +38,6 @@ Interested in web development, data related projects, and applied programming pr
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
----
 
 ### Developer Tools
 
@@ -54,7 +52,6 @@ Interested in web development, data related projects, and applied programming pr
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
----
 
 ### Python Libraries
 
