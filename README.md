@@ -16,7 +16,6 @@ Interested in web development, data related projects, and applied programming pr
 ![Office Suites](https://img.shields.io/badge/Office%20Suites-6C757D?style=for-the-badge)
 ![Graphic Design](https://img.shields.io/badge/Graphic%20Design-E91E63?style=for-the-badge)
 
----
 
 ### Languages
 
