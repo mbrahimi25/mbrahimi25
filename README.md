@@ -97,4 +97,3 @@ Python library for extracting structured football data from FBRef. Helped me lea
 - Portfolio: https://www.mbrahimi.social/
 - Email: momohb2007@gmail.com
 
----
